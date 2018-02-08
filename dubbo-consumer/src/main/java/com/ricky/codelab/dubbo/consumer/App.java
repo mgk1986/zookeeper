@@ -21,7 +21,7 @@ public class App {
 		System.out.println(hello); // 显示调用结果
 		
 		User user = demoService.findUserById(15);
-		System.out.println(user); // 显示调用结果
+		System.out.println(user); // 显示调用结果.
 		
 	}
 }
